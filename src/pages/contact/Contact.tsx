@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <div>
       <ContactUsSection />
-      <div className="location-section">
+      <div className="location-section" >
         <h2 className="location-title">Visit Our Pharmacy</h2>
         <p className="location-description">
           Find us at our main location and explore our wide range of health
